@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamKumar
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on "Personal Projects".
+- 💞️ I’m looking to collaborate on "Personal Projects". 
 - 📫 How to reach me shubhamin715@gmail.com
 - ⚡ Fun fact :...
 
