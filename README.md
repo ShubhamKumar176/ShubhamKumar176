@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar176&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar176" /> </p>
 
-- 🌱 I’m currently learning **Flutter & Firebase**
+- 🌱 I’m currently learning **Flutter & Firebase** 
 
 - 👯 I’m looking to collaborate on **Personal Projects**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@shubham_in176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubham_in176" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhamkumar176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamkumar176" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubham9qaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubham9qaz" height="30" width="40" /></a>
 </p>
